@@ -1,19 +1,20 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Dương ơiiiii!',
+    introDesc: `Nghe nói hôm nay sinh nhật của ai đó
+    Chúc D luôn xinh đẹp nè,học giỏi nè,sức khỏe tràn trề,
+    đạt được những gì mình mong muốn,rồi đậu tốt nghiệp và cả Đại Học.
+    Đủ chưa nhỉ??? Thôi thì mọi điều tốt đẹp sẽ come to you :>>>>>>
+    HAPPY BIRTHDAY SIÊU TO BỰ NHA !!!!!`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    title: 'Happy Birthday To You :3',
+    desc: 'Chúc mừng sinh nhật nhoeeeeee ',
+    btnYes: 'Tụi mình bình thường lại nha @@',
+    btnNo: 'Bấm vào để xem điều đặc biệt ^^',
+    question:'Vậy là chịu tiếp xúc bình thường với tui rồi đúng không',
+    btnReply: 'Đúng là như vậy đó',
+    reply: 'Chốt câu trả lời',
+    mess: 'Hihi tui biết mà, sinh nhật trong dịch vẫn không được buồn nha',
+    messDesc: 'Cố đợi hết dịch có gì đi chơi,rồi bao ăn sinh nhật bù :)))).',
+    btnAccept: 'Okiiiii lun :))))',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
