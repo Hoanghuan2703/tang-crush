@@ -5,7 +5,7 @@ const CONFIG = {
     đạt được những gì mình mong muốn,rồi đậu tốt nghiệp và cả Đại Học.
     Đủ chưa nhỉ??? Thôi thì mọi điều tốt đẹp sẽ come to you :>>>>>>
     HAPPY BIRTHDAY SIÊU TO BỰ NHA !!!!!`,
-    btnIntro: 'hihi',
+    btnIntro: 'Cảm ơn nhiều ạ',
     title: 'Happy Birthday To You :3',
     desc: 'Chúc mừng sinh nhật nhoeeeeee ',
     btnYes: 'Tụi mình bình thường lại nha @@',
